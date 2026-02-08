@@ -1,0 +1,15 @@
+{
+  "name": "x-client-transaction-id-generater-browser",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "src/main.js",
+  "types": "dist/main.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
